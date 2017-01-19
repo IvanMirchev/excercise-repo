@@ -1,3 +1,3 @@
 # excercise-repo
 Test
-This is an excercise repo :)
+This is an excercise repo :P
